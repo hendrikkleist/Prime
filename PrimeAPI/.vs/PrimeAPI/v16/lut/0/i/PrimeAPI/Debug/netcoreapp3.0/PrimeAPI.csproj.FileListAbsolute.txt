@@ -1,0 +1,5 @@
+Z:\VMShares\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeAPI\Debug\netcoreapp3.0\PrimeAPI.csprojAssemblyReference.cache
+Z:\VMShares\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeAPI\Debug\netcoreapp3.0\staticwebassets\PrimeAPI.StaticWebAssets.Manifest.cache
+Z:\VMShares\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeAPI\Debug\netcoreapp3.0\staticwebassets\PrimeAPI.StaticWebAssets.xml
+Z:\VMShares\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeAPI\Debug\netcoreapp3.0\PrimeAPI.AssemblyInfoInputs.cache
+Z:\VMShares\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeAPI\Debug\netcoreapp3.0\PrimeAPI.AssemblyInfo.cs

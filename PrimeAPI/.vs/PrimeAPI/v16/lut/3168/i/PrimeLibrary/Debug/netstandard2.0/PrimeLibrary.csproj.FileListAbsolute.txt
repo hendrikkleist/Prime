@@ -1,0 +1,6 @@
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\b\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.deps.json
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\b\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.dll
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.AssemblyInfo.cs
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.csproj.CopyComplete
+C:\Users\Hendrik\source\repos\PrimeAPI\.vs\PrimeAPI\v16\lut\0\i\PrimeLibrary\Debug\netstandard2.0\PrimeLibrary.dll

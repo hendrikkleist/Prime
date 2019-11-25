@@ -1,0 +1,8 @@
+C:\Users\Hendrik\source\repos\PrimeLibrary\bin\Debug\netstandard2.0\PrimeLibrary.deps.json
+C:\Users\Hendrik\source\repos\PrimeLibrary\bin\Debug\netstandard2.0\PrimeLibrary.dll
+C:\Users\Hendrik\source\repos\PrimeLibrary\bin\Debug\netstandard2.0\PrimeLibrary.pdb
+C:\Users\Hendrik\source\repos\PrimeLibrary\obj\Debug\netstandard2.0\PrimeLibrary.csprojAssemblyReference.cache
+C:\Users\Hendrik\source\repos\PrimeLibrary\obj\Debug\netstandard2.0\PrimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Hendrik\source\repos\PrimeLibrary\obj\Debug\netstandard2.0\PrimeLibrary.AssemblyInfo.cs
+C:\Users\Hendrik\source\repos\PrimeLibrary\obj\Debug\netstandard2.0\PrimeLibrary.dll
+C:\Users\Hendrik\source\repos\PrimeLibrary\obj\Debug\netstandard2.0\PrimeLibrary.pdb
